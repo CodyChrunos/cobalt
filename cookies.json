@@ -1,0 +1,17 @@
+{
+    "instagram": [
+        "mid=<replace>; ig_did=<with>; csrftoken=<your>; ds_user_id=<own>; sessionid=<cookies>"
+    ],
+    "instagram_bearer": [
+        "token=<token_with_no_bearer_in_front>", "token=IGT:2:<looks_like_this>"
+    ],
+    "reddit": [
+        "client_id=<replace_this>; client_secret=<replace_this>; refresh_token=<replace_this>"
+    ],
+    "twitter": [
+        "auth_token=ddba0fdcda32ec09c2762dec3da4bf94cef155e5; ct0=dcbf174c3241938b18a4387b3f3005bae78a975c4ab8667008578a91822753f3aba25c1649bfd69cadaffb32212b6d0f89594f1ce6abedfdca4ffb88874a5a59576e1f238d8d155898dada6033a718d4"
+    ],
+    "youtube_oauth": [
+        "access_token=ya29.a0ARW5m75a7QQJUuTl00qDkS0ABDYSPMSWxOj2FEvUNU-Jmrt4U7BjxVtZEbD6wtcuPr2kmQbrX-fqc9Cp1zmMCVOj8g2DCxgfUVDZiGDeu0B1nF68YD5U_INWnqAdJsJpISL8sv_9SNwbF6z9rPsFUEahGPjw3BSNdKJmO86LbKKhHYOAEwX-aCgYKAfkSARISFQHGX2Mi5mDCH8zlvkr7QMjtKN215A0187; refresh_token=1//06g536I-n0D8DCgYIARAAGAYSNwF-L9Irdz_RRB9pRxyC-PDFQ0E2YP71gePi-ZC2ndq5YWs_qHDrHFxkKAXa4_t6b2FsbzAXW5w; scope=https://www.googleapis.com/auth/youtube https://www.googleapis.com/auth/youtube-paid-content; token_type=Bearer; expiry_date=2025-01-13T03:18:35.833Z"
+    ]
+}
